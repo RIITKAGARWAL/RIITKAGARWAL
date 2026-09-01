@@ -10,8 +10,8 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img alt="LinkedIn Follow" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/ritik-agarwal-99bb21246/"><img alt="LinkedIn Follow" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Ritik_Agarwal_MCA-IIITB/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="mailto:agarwalritik895@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -50,11 +50,11 @@
 ### 📌 Pinned & Top Repositories :
 
 <div align="center">
-  <a href="https://github.com/RIITKAGARWAL/CineVault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIITKAGARWAL&repo=CineVault&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/RIITKAGARWAL/CineVault__Fast_Tickets_Prime_Seats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIITKAGARWAL&repo=CineVault__Fast_Tickets_Prime_Seats&theme=tokyonight&hide_border=true" alt="CineVault" />
   </a>
-  <a href="https://github.com/RIITKAGARWAL/SpenSight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIITKAGARWAL&repo=SpenSight&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/RIITKAGARWAL/HackInMotion-RICR-HIM-1182">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIITKAGARWAL&repo=HackInMotion-RICR-HIM-1182&theme=tokyonight&hide_border=true" alt="SpenSight" />
   </a>
 </div>
 
@@ -103,32 +103,32 @@ const ritik = {
 **I'm a Night 🦉**
 
 ```text
-🌞 Morning                18 commits        ███░░░░░░░░░░░░░░░░░░░░░░    11.50 %
-🌆 Daytime                55 commits        █████████░░░░░░░░░░░░░░░░    35.30 %
-🌃 Evening                49 commits        ████████░░░░░░░░░░░░░░░░░    31.49 %
-🌙 Night                  34 commits        ██████░░░░░░░░░░░░░░░░░░░    21.88 %
+🌞 Morning                8 commits        ███░░░░░░░░░░░░░░░░░░░░░░    11.50 %
+🌆 Daytime                5 commits        █████████░░░░░░░░░░░░░░░░    35.30 %
+🌃 Evening                9 commits        ████████░░░░░░░░░░░░░░░░░    31.49 %
+🌙 Night                  4 commits        ██████░░░░░░░░░░░░░░░░░░░    21.88 %
 
 ```
 
 📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                    58 commits        ████████░░░░░░░░░░░░░░░░    38.20 %
-Tuesday                   11 commits        █████░░░░░░░░░░░░░░░░░░░    13.60 %
+Monday                    5 commits        ████████░░░░░░░░░░░░░░░░    38.20 %
+Tuesday                   1 commits        █████░░░░░░░░░░░░░░░░░░░    13.60 %
 Wednesday                  4 commits        ██░░░░░░░░░░░░░░░░░░░░░░    16.92 %
 Thursday                   6 commits        ███░░░░░░░░░░░░░░░░░░░░░    10.68 %
-Friday                    10 commits        ████░░░░░░░░░░░░░░░░░░░░    09.82 %
+Friday                    0 commits        ████░░░░░░░░░░░░░░░░░░░░    09.82 %
 Saturday                   5 commits        ████░░░░░░░░░░░░░░░░░░░░    14.07 %
-Sunday                    58 commits        ████████░░░░░░░░░░░░░░░░    23.87 %
+Sunday                    8 commits        ████████░░░░░░░░░░░░░░░░    23.87 %
 
 ```
 
 **I Mostly Code in C++ & JavaScript**
 
 ```text
-C++                       12 repos          ██████████░░░░░░░░░░░░░░    40.00 %
+C++                       2 repos          ██████████░░░░░░░░░░░░░░    40.00 %
 JavaScript                10 repos          ████████░░░░░░░░░░░░░░░░    33.33 %
-Python                     5 repos          ████░░░░░░░░░░░░░░░░░░░░    16.67 %
+Python                     3 repos          ████░░░░░░░░░░░░░░░░░░░░    16.67 %
 Java                       3 repos          ███░░░░░░░░░░░░░░░░░░░░░    10.00 %
 
 ```
